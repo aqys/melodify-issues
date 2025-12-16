@@ -23,4 +23,4 @@ A: Yes, but playback controls (play/pause, skip) require Spotify Premium.
 
 ## 🤝 Contributing
 
-Found a bug or have a suggestion? Open an issue on [GitHub](https://github.com/aqys/melodify-issues/issues/)!
+Found a bug or have a suggestion? Open an issue [Here](https://github.com/aqys/melodify-issues/issues/)!
