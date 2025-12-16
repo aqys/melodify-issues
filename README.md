@@ -4,7 +4,7 @@ This repository is for bug reports and feature requests for **Melodify**, a Mine
 
 ## Links
 
-- [Download on Modrinth](https://modrinth.com/)
+- [Download on Modrinth](https://modrinth.com/mod/melodify/)
 
 ## Reporting Issues
 
