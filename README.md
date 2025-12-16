@@ -6,10 +6,6 @@ This repository is for bug reports and feature requests for **Melodify**, a Mine
 
 - [Download on Modrinth](https://modrinth.com/mod/melodify/)
 
-## Reporting Issues
-
-Please use the issue templates when reporting bugs or requesting features.
-
 ## ❓ FAQ
 
 **Q: The HUD isn't showing up?**
